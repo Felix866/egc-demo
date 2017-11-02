@@ -3,3 +3,4 @@ git status
 git commit
 git log
 git log --oneline
+git commit -a
